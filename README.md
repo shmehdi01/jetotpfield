@@ -18,3 +18,6 @@ OTPField built using Jetpack Compose
         } 
    )
 ```
+
+
+<img src="https://github.com/shmehdi01/jetotpfield/blob/main/scr.png" alt="Screenshot" width="200"/>
